@@ -1,6 +1,7 @@
 # Sobel
 Processing pictures (*.bmp) with sobel operator (edges detection) in c++ without external libraries
 Uploading picture, reading bytes etc is coded by me - no library is used to read from binary file
+In repo files there are examples how the program works.
 
 
 #Hints
